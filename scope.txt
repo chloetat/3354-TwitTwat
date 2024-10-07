@@ -1,0 +1,20 @@
+project scope 
+
+user profile
+1. user account creation 
+2. user photo post + identification
+3. post geo location for post
+3. support user photo wall 
+4. follow users
+5. comment wall on posts
+6. user profile 
+
+
+user  engagment
+1. view recent sightings 
+2. share sightings 
+3. edit/delete sightings.
+4.  search for specfic tags/animals
+
+
+
