@@ -1,0 +1,9 @@
+Group Members:
+Chloe Tatunay
+Samara Sherven
+Giovani Jonenson
+Zachary Karanja
+Akshu Ariga
+Diya Jibu
+Yoojin Lee 
+Tee Nguyen
